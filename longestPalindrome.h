@@ -11,8 +11,6 @@
 
 using namespace std;
 
-int fiveA();
-int fiveB();
-int fiveC();
+int longestPalindrome();
 
 #endif /* longestPalindrome_h */
